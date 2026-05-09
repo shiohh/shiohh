@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=796011302895204496" height="416" width="600" frameborder="0" scrolling="no" ></iframe>" width="300">
+  <img src="https://i.pinimg.com/originals/29/aa/41/29aa4124a3a4d698f4264ed5e066c3e0.gif" width="300">
 </p>
